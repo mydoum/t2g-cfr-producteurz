@@ -1,6 +1,12 @@
 {
   "db": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "loopback",
+    "password": "admin",
     "name": "db",
-    "connector": "memory"
+    "user": "admin",
+    "connector": "mysql"
   }
 }
